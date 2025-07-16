@@ -1,0 +1,10 @@
+
+.LogoInstagram { font-size:x-large;}
+.contenedor {
+    img { margin: 0.5em 0;
+    padding: 0%;}
+
+    div { padding: 0;}
+}
+.grid { display: flex;
+justify-content: center;}
